@@ -1,1 +1,1 @@
-# pythoncraps
+Simple git tutorial.
